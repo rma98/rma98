@@ -22,5 +22,5 @@
   <a href = "mailto:robalbuquerque98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/robson-monteiro-de-albuquerque-8b3853230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rafaballerini/rma98/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rma98/rma98/blob/output/github-contribution-grid-snake.svg)
 </div>
